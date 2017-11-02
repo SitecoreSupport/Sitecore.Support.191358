@@ -46,11 +46,11 @@
       <HintPath>..\..\lib\Sitecore.DataExchange.Local.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Kernel">
-      <HintPath>..\packages\SC.Sitecore.Kernel.8.2.2\lib\Sitecore.Kernel.dll</HintPath>
+      <HintPath>..\packages\SC.Sitecore.Kernel.8.2.3\lib\Sitecore.Kernel.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.DataExchange">
-      <HintPath>..\packages\DEF.Sitecore.DataExchange.1.4.0\lib\Sitecore.DataExchange.dll</HintPath>
+      <HintPath>..\packages\DEF.Sitecore.DataExchange.1.3.0\lib\Sitecore.DataExchange.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
